@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Atharva Joshi
 - 👀 I’m interested in Competitive Programming , DSA and Full Stack Development
 - 🌱 I’m currently doing some projects on MERN stack
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Full Stacj Development
 - 📫 How to reach me -> atharvajo31@gmail.com
 
 
